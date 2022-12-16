@@ -7,6 +7,78 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:273616988374:android:f671a17053ca8d6db48177",
+        "android_client_info": {
+          "package_name": "com.riseuplabs.ureport.ureport_ecaro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273616988374-1jpra9i5v19sbr1qj1ful1m4lqkgtcb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUt78tOAjH99qYZF36y14u_bSiemWQqww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273616988374-1jpra9i5v19sbr1qj1ful1m4lqkgtcb6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "273616988374-7vg3kacloapv770fakqcbh976t0n11v0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.unicef.ureport"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273616988374:android:c327df5466da5123b48177",
+        "android_client_info": {
+          "package_name": "in.ureport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273616988374-1jpra9i5v19sbr1qj1ful1m4lqkgtcb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUt78tOAjH99qYZF36y14u_bSiemWQqww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273616988374-1jpra9i5v19sbr1qj1ful1m4lqkgtcb6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "273616988374-7vg3kacloapv770fakqcbh976t0n11v0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.unicef.ureport"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:273616988374:android:ffe15d769b9560c1b48177",
         "android_client_info": {
           "package_name": "org.unicef.ureport"
